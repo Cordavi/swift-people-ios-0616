@@ -28,6 +28,7 @@ class IntOrdinalSpec: QuickSpec {
                 
                 it("should return 'th' for 24-30") {
                     let twentyFour = 24
+                  
                     let twentyFive = 25
                     let twentySix = 26
                     let twentySeven = 27
